@@ -97,6 +97,10 @@ td, th {
   visibility: hidden;
 }
 
+.big105 {
+  font-size: 105%;
+}
+
 .big110 {
   font-size: 110%;
 }
@@ -119,6 +123,10 @@ td, th {
 
 .small {
   font-size: 90%;
+}
+
+.small95 {
+  font-size: 95%;
 }
 
 .small90 {
@@ -180,6 +188,11 @@ a:visited {
   color: blue;
 }
 
+.left-column5 {
+  width: 5%;
+  float: left;
+}
+
 .left-column10 {
   width: 10%;
   float: left;
@@ -189,8 +202,14 @@ a:visited {
   width: 20%;
   float: left;
 }
+
 .left-column30 {
   width: 30%;
+  float: left;
+}
+
+.left-column35 {
+  width: 35%;
   float: left;
 }
 
@@ -278,6 +297,12 @@ a:visited {
   width: 60%;
   float: right;
 }
+
+.right-column65 {
+  width: 65%;
+  float: right;
+}
+
 .right-column70 {
   width: 70%;
   float: right;
@@ -290,6 +315,11 @@ a:visited {
 
 .right-column90 {
   width: 90%;
+  float: right;
+}
+
+.right-column95 {
+  width: 95%;
   float: right;
 }
 
